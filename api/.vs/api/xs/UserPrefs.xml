@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A12A7B87-6D79-46C5-8176-EE170BEA7AEB}|Default">
+  <MonoDevelop.Ide.ItemProperties.api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/BartenderController.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="26" Column="80" />
+      <File FileName="Controllers/BartenderController.cs" Line="27" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kstanoev/programming/react/demo/api/Controllers/GameController.cs" relfile="Controllers/GameController.cs" line="48" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

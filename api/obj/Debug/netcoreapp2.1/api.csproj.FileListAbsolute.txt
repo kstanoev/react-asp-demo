@@ -1,0 +1,16 @@
+/Users/kstanoev/programming/react/demo/api/bin/Debug/netcoreapp2.1/api.deps.json
+/Users/kstanoev/programming/react/demo/api/bin/Debug/netcoreapp2.1/api.runtimeconfig.json
+/Users/kstanoev/programming/react/demo/api/bin/Debug/netcoreapp2.1/api.runtimeconfig.dev.json
+/Users/kstanoev/programming/react/demo/api/bin/Debug/netcoreapp2.1/api.dll
+/Users/kstanoev/programming/react/demo/api/bin/Debug/netcoreapp2.1/api.pdb
+/Users/kstanoev/programming/react/demo/api/obj/Debug/netcoreapp2.1/api.csproj.CoreCompileInputs.cache
+/Users/kstanoev/programming/react/demo/api/obj/Debug/netcoreapp2.1/api.RazorAssemblyInfo.cache
+/Users/kstanoev/programming/react/demo/api/obj/Debug/netcoreapp2.1/api.RazorAssemblyInfo.cs
+/Users/kstanoev/programming/react/demo/api/obj/Debug/netcoreapp2.1/api.AssemblyInfoInputs.cache
+/Users/kstanoev/programming/react/demo/api/obj/Debug/netcoreapp2.1/api.AssemblyInfo.cs
+/Users/kstanoev/programming/react/demo/api/obj/Debug/netcoreapp2.1/api.RazorTargetAssemblyInfo.cache
+/Users/kstanoev/programming/react/demo/api/obj/Debug/netcoreapp2.1/api.dll
+/Users/kstanoev/programming/react/demo/api/obj/Debug/netcoreapp2.1/api.pdb
+/Users/kstanoev/programming/react/demo/api/obj/Debug/netcoreapp2.1/api.csprojAssemblyReference.cache
+/Users/kstanoev/programming/react/demo/api/bin/Debug/netcoreapp2.1/api.Views.dll
+/Users/kstanoev/programming/react/demo/api/obj/Debug/netcoreapp2.1/api.csproj.CopyComplete
